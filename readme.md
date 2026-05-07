@@ -10,6 +10,17 @@ This is a multiplayer Yahtzee game built in Java with a Swing GUI.
 - Configurable game settings (dice sides, dice count, rolls per turn)
 - Save and continue for in-progress games
 
+## Screenshots
+
+### Main Menu
+![Main Menu](src/main/resources/Menu_Screen.png)
+
+### Gameplay
+![Main Menu](src/main/resources/Menu_Screen.png)
+
+### End Screen
+![Main Menu](src/main/resources/End_Screen.png)
+
 ## Tech Stack
 
 - Java
