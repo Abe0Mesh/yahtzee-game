@@ -16,7 +16,7 @@ This is a multiplayer Yahtzee game built in Java with a Swing GUI.
 ![Main Menu](src/main/resources/Menu_Screen.png)
 
 ### Gameplay
-![Main Menu](src/main/resources/Menu_Screen.png)
+![Main Menu](src/main/resources/Game_Screen.png)
 
 ### End Screen
 ![Main Menu](src/main/resources/End_Screen.png)
